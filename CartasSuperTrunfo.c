@@ -10,7 +10,7 @@ float area1, area2, pib1, pib2;
 char cidade1[20], cidade2[20], codigo1[20], codigo2[20];
 char estado1, estado2;
 
-// comecei solicitando os dados de da primeira cidade
+// comecei solicitando a entrada dos dados da primeira cidade.
 
 
 printf("Digite uma letra de 'A' a 'H': ");
@@ -34,7 +34,7 @@ scanf("%f", &pib1);
 printf("Digite o número de pontos turísticos: ");
 scanf("%d", &turísticos1);
 
-// aqui eu programei pra imprimir os dados da primeira cidade
+// aqui eu programei pra imprimir os dados da primeira cidade.
 
 printf("CARTA 1: \n");
 printf("ESTADO: %c\n", estado1);
