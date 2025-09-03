@@ -43,7 +43,7 @@ printf("NOME DA CIDADE: %s\n", cidade1);
 printf("POPULAÇÃO: %d\n", população1);
 printf("ÁREA: %f km²\n", area1);
 printf("PIB: %f bilhões de reais\n", pib1);
-printf("Número de pontos turísticos: %d", turísticos1);
+printf("Número de pontos turísticos: %d\n", turísticos1);
 
 // e aqui eu repeti o mesmo processo que fiz na primeira cidade.
 
@@ -75,9 +75,7 @@ printf("NOME DA CIDADE: %s\n", cidade2);
 printf("POPULAÇÃO: %d\n", população2);
 printf("ÁREA: %f km²\n", area2);
 printf("PIB: %f bilhões de reais\n", pib2);
-printf("NÚMERO DE PONTOS TURÍSTICOS: %d", turísticos2);
+printf("NÚMERO DE PONTOS TURÍSTICOS: %d\n", turísticos2);
 
-
-
- return 0;
+return 0;
 }
